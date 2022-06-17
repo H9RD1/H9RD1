@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @H9RD1
+- 👀 I’m interested in coding, I do various projects, for example, creating bots
+- 🌱 I’m currently learning C#
